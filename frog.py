@@ -1,4 +1,8 @@
 # coding=utf-8
+'''
+一只青蛙白天可以爬井5m，晚上掉落3m
+传入参数为井深
+'''
 
 def frog(deep):
 	meter_day = 2
