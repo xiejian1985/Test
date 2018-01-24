@@ -15,5 +15,5 @@ def bubble(date):
     return date
 
 if __name__ == '__main__':
-    a = [12,45,42,10,25,67]
+    a = [12,45,42,10,25,67,55]
     print(bubble(a))
